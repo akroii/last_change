@@ -1,4 +1,4 @@
-# last_update
+# last_change
 
 ## This is a fork of an old extension by tomkit.de taken from ER2
 
